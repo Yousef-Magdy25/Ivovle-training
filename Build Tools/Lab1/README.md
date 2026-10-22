@@ -16,26 +16,26 @@ mvn --version
 ```
 Apache Maven 3.9.12
 
-## Cloning Repo
+## 2. Cloning Repo
 ```Linux
 git clone https://github.com/Ibrahim-Adel15/CalculatorMavenApp.git
 ```
 <img width="788" height="366" alt="image" src="https://github.com/user-attachments/assets/0963921f-a539-454f-a18a-4d89f00d9709" />
 
-## Testing the code
+## 3. Testing the code
 ```Linux
 mvn test
 ```
 <img width="1209" height="347" alt="image" src="https://github.com/user-attachments/assets/90a74c40-969d-496f-b7c0-8a46842d7b5e" />
 
-## Compiling
+## 4. Compiling
 ```Linux
 mvn package
 ```
 <img width="773" height="155" alt="image" src="https://github.com/user-attachments/assets/9676ac96-8487-425a-8824-dc76ec37c508" />
 <img width="646" height="972" alt="image" src="https://github.com/user-attachments/assets/6ceefcbd-7358-4a58-aed5-667205555c5f" />
 
-## Results
+## 5. Results
 ```Linux
 java -jar target/calculator.jar
 ```
