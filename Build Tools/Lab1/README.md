@@ -1,3 +1,5 @@
+# Lab-1 Building & testing the calculator app with maven 
+
 ## 1. Installation 
 ```Linux
 sudo apt update
