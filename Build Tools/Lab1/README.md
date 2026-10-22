@@ -34,5 +34,7 @@ mvn package
 <img width="646" height="972" alt="image" src="https://github.com/user-attachments/assets/6ceefcbd-7358-4a58-aed5-667205555c5f" />
 
 ## Results
-
-<img width="961" height="175" alt="image" src="https://github.com/user-attachments/assets/7fda29a8-ead7-407d-a020-82ebbe8e7c8d" />
+```Linux
+java -jar target/calculator.jar
+```
+<img width="232" height="150" alt="image" src="https://github.com/user-attachments/assets/f986bdae-ab9c-43b9-9baa-9b58f408d895" />
